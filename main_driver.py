@@ -1,3 +1,9 @@
+'''
+This file allows the driver to use both joysticks: 
+- Left Joystick: Left wheel 
+- Right Joystick: Right wheel
+'''
+
 import curses
 import RPi.GPIO as GPIO
 import os
