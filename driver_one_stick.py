@@ -1,3 +1,8 @@
+'''
+This file allows the driver to use the right joystick to control the movement of the tank
+'''
+
+
 import curses
 import RPi.GPIO as GPIO
 import os
